@@ -11,6 +11,10 @@ Device simulator for Scalable computing  project 4
 - Node -> Edge => Interface - Bluetooth | Protocol - Socket
 - Edge -> Server or Gateway => Interface - Wifi | Protocol - Mqtt
 
+### Dependencies
+-> Install paho-mqtt
+-> Install Eclipse Mosquitto 
+
 ### Procedure to Run
 - After cloning make a copy of "DeviceSimulation" folder as "DeviceSimulation(1)"
 - Run Node.py from DeviceSimulation path
